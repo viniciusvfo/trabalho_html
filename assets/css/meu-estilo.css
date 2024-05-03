@@ -1,0 +1,55 @@
+.container-principal {
+    background-color: gray;
+
+}
+
+.titulo-do-site {
+    text-align: center;
+}
+.minha-coluna {
+    border: 1px solid black;
+    height: 100px;
+    background-color: chocolate;
+}
+
+.minha-coluna2 {
+    border: 1px solid black;
+    height: 100px;
+    background-color: green;
+
+}
+
+.minha-coluna3 {
+    border: 1px solid black;
+    height: 100px;
+    background-color: rgb(121, 255, 121);
+
+}
+
+.minha-coluna4 {
+    border: 1px solid black;
+    height: 100px;
+    background-color: rgb(35, 223, 230);
+
+}
+
+.minha-coluna5 {
+    border: 1px solid black;
+    height: 100px;
+    background-color: red;
+
+}
+
+.minha-coluna6 {
+    border: 1px solid black;
+    height: 100px;
+    background-color: yellow;
+
+}
+
+.minha-coluna7 {
+    border: 1px solid black;
+    height: 100px;
+    background-color: pink;
+
+}
